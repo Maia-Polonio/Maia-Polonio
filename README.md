@@ -1,5 +1,5 @@
 
-# Sobre Maia-Polonio
+# Sobre Maia-Polonio 
 
 Graduada em Engenharia de Controle e Automação e Pós-Graduada em Ciência de Dados e Big Data Analytics, com experiência de 6 anos na área comercial utilizando dados para análise de KPIs - Indicadores Chave de Desempenho de vendas, produtividade e performance da equipe comercial o que me fez aprofundar na área de dados.
 
@@ -19,12 +19,9 @@ Encaro as mudanças como oportunidades, sou uma profissional analítica, proativ
 
 # 📚 Interesses
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
-
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-000.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />
+          
+          
+          
+          
