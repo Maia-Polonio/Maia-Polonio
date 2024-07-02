@@ -1,5 +1,5 @@
 
-# Meu nome é Fernanda Maia Polonio
+# Sobre Maia-Polonio
 
 Graduada em Engenharia de Controle e Automação e Pós-Graduada em Ciência de Dados e Big Data Analytics, com experiência de 6 anos na área comercial utilizando dados para análise de KPIs - Indicadores Chave de Desempenho de vendas, produtividade e performance da equipe comercial o que me fez aprofundar na área de dados.
 
@@ -11,12 +11,9 @@ Com facilidade para aprender novas atividades e desenvolver transformações pos
 
 Encaro as mudanças como oportunidades, sou uma profissional analítica, proativa, flexível, facilidade em aprender, organizada, honesta e senso crítico.
 
-# Conectes-se comigo
+# Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fernanda-maia-polonio/)
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/Nanda_Polonio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maiapolonio/)
 
