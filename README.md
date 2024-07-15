@@ -17,17 +17,6 @@ Encaro as mudanças como oportunidades, sou uma profissional analítica, proativ
 
 Procuro o desenvolvimento contínuo no meu inglês, que está atualmente em nível intermediário. Estou trabalhando para avançar para avançar de nível. Esse nível atesta a minha capacidade de entender a essência de textos em inglês, expressar opiniões e me comunicar.
 
-# Conecte-se comigo
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maiapolonio/)
-
-# 📚 Interesses
-
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="50" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" />
-          
           
           
           
