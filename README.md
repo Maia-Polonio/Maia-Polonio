@@ -8,7 +8,7 @@
 
 Graduada em Engenharia de Controle e Automação e Pós-Graduada em Ciência de Dados e Big Data Analytics, com experiência de 6 anos na área comercial utilizando dados para análise de KPIs - Indicadores Chave de Desempenho de vendas, produtividade e performance da equipe comercial o que me fez aprofundar na área de dados.
 
-Atualmente estou finalizando o curso de Análise de Dados para novos aprendizados na área de Tecnologia como Microsoft Power BI, Python, SQL, ETL. E além deste curso também gosto de participar de Bootcamps para aprimorar as habilidades da área.
+ Recentemente concluí o curso de Análise de Dados para novos aprendizados na área de Tecnologia como Microsoft Power BI, Python, SQL. E além deste curso também gosto de participar de Bootcamps para aprimorar as habilidades da área.
 
 Sempre procuro novos estímulos e inovar, gosto de novos desafios e me dedico em realizar o meu trabalho com comprometimento e responsabilidade.
 
