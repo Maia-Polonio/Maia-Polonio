@@ -4,7 +4,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" /> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="65" height="65" />
           
           
-# Sobre Maia-Polonio [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)   [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/maiapolonio/)
+# Sobre Maia-Polonio [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 Graduada em Engenharia de Controle e Automação e Pós-Graduada em Ciência de Dados e Big Data Analytics, com experiência de 6 anos na área comercial utilizando dados para análise de KPIs - Indicadores Chave de Desempenho de vendas, produtividade e performance da equipe comercial o que me fez aprofundar na área de dados.
 
