@@ -16,8 +16,5 @@ Com facilidade para aprender novas atividades e desenvolver transformações pos
 
 Encaro as mudanças como oportunidades, sou uma profissional analítica, proativa, flexível, facilidade em aprender, organizada, honesta e senso crítico.
 
-Procuro o desenvolvimento contínuo no meu inglês, que está atualmente em nível intermediário. Estou trabalhando para avançar para avançar de nível. Esse nível atesta a minha capacidade de entender a essência de textos em inglês, expressar opiniões e me comunicar.
-
-          
           
           
