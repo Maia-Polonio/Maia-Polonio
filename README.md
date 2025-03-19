@@ -14,7 +14,7 @@ Sempre procuro novos estímulos e inovar, gosto de novos desafios e me dedico em
 
 Com facilidade para aprender novas atividades e desenvolver transformações positivas para a empresa, coloco-me à disposição para contribuir com minhas habilidades, capacidade e competência. Com atitude de dono e foco nos resultados, estou pronto para fazer a diferença.
 
-Encaro as mudanças como oportunidades, sou uma profissional analítica, proativa, flexível, facilidade em aprender, organizada, honesta e senso crítico.
+Encaro as mudanças como oportunidades, sou uma profissional analítica, comprometida, organizada, responsável, curiosa e possuo facilidade em aprender.
 
           
           
